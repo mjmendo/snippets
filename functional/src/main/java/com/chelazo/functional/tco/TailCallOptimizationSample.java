@@ -1,4 +1,4 @@
-package com.chelazo.functiona.tco;
+package com.chelazo.functional.tco;
 
 import java.util.stream.Stream;
 
